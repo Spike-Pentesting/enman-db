@@ -1,0 +1,6 @@
+[spike]
+desc = Spike Linux Repository
+repo = https://mirror.spike-pentesting.org/mirrors/spike#bz2
+enabled = true
+pkg = https://mirror.spike-pentesting.org/mirrors/spike
+pkg = https://repository.spike-pentesting.org
