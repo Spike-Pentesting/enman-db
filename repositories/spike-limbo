@@ -1,0 +1,6 @@
+[spike-limbo]
+desc = Spike Limbo Repository
+repo = http://limbo.spike-pentesting.org#bz2
+enabled = true
+pkg = http://limbo.spike-pentesting.org
+
